@@ -1,0 +1,541 @@
+@media (max-width:920px) {
+    .conteiner{
+        max-width: 740px ;
+    }
+    .logo {
+        font-size: 28px;
+    }
+
+    .top-nav-item:not(:last-child) {
+        margin-right: 10px;
+    }
+    .top-nav-item {
+        font-size: 13px;
+    }
+
+    .hero-content-title {
+        font-size: 42px;
+        font-weight: 600;
+    }
+
+    .hero-desc {
+        font-size: 20px;
+        margin: 7px 0 40px;
+    }
+
+    .get-started-btn {
+        font-size: 13px;
+        padding: 7px 24px;
+    }
+    .few {
+        padding: 40px 0;
+    }
+    .col-6 {
+        padding: 0 20px;
+    }
+    .about-title {
+        text-transform: capitalize;
+        font-size: 24px;
+    }
+    .about-description {
+        margin: 13px 0 30px;
+        color: #979797;
+        font-size: 15px;
+    }
+    .icon-box {
+        margin-bottom: 30px;
+    }
+    .icon {
+        width: 50px;
+        height: 50px;
+    }
+    .icon-box-title {
+        margin-left: 60px;
+        font-size: 15px;
+        font-weight: 600;
+    }
+    .icon-box-desc{
+        margin-left: 80px;
+        font-size: 13px;
+    }
+
+    .facts {
+        padding: 40px 0;
+    }
+
+
+    .section-title {
+        font-size: 24px;
+    }
+    .section-desc {
+        margin-bottom: 60px;
+        font-size: 18px;
+    }
+    .action-desc {
+        font-size: 18px;
+    }
+    .call-to-action-btn{
+        font-size: 16px;
+        font-weight: 500;
+        padding: 8px 30px;
+        margin: 10px;
+    }
+    ul.facts-list {
+        margin-top: 30px;
+    }
+
+.facts-list li {
+    display: inline-block;
+    margin: 0 50px;
+}
+
+    .facts-list-num {
+        font-size: 35px;
+    }
+    .services {
+        padding: 45px 0;
+    }
+    .col-4 {
+        padding: 0 12px;
+    }
+    .item {
+        padding: 40px 15px;
+        margin-bottom: 35px;
+        height: 180px;
+    }
+    .ikon {
+        width: 65px;
+        height: 65px;
+    }
+    .ikon span {
+        font-size: 20px;
+    }
+    .about-title-ikon {
+        font-size: 15px;
+        margin-bottom: 13px;
+    }
+    .about-description-ikon {
+        font-size: 11px;
+    }
+    .action {
+        margin-bottom: 40px;
+        padding: 60px 0;
+    }
+    .action-content-title {
+        font-size: 22px;
+    }
+    .portfolio {
+        padding: 60px 0;
+    }
+    .portfolio-item {
+        height: 300px;
+        margin-bottom: 20px;
+    }
+    .team {
+        padding: 40px 0 40px 0;
+    }
+    .contact {
+        padding: 50px 0 20px;
+        margin-top: 80px;
+    }
+    .map {
+        margin: 35px 0 35px;
+    }
+    .contact-info span {
+        font-size: 25px;
+    }
+    .contact-info p {
+        padding: 0 0 10px 40px;
+        margin-bottom: 15px;
+        line-height: 20px;
+        font-size: 12px;
+    }
+    .contact-form input, .contact-form textarea {
+        font-size: 12px;
+        padding: 7px 4px;
+        margin: 5px;
+    }
+
+}
+
+
+
+
+
+
+@media (max-width:765px) {
+    .conteiner{
+        max-width: 540px;
+    }
+    .logo {
+        font-size: 20px;
+    }
+
+    .top-nav-item {
+        margin-bottom: 6px;
+        text-align: center;
+        display: block;
+    }
+    .top-nav-item {
+        font-size: 9px;
+    }
+
+    .hero-content-title {
+        font-size: 25px;
+        font-weight: 500;
+    }
+
+    .hero-desc {
+        font-size: 15px;
+        margin: 5px 0 30px;
+    }
+
+    .get-started-btn {
+        font-size: 10px;
+        padding: 7px 24px;
+    }
+    .few {
+        padding: 25px 0;
+    }
+    .col-6 {
+        padding: 0 10px;
+    }
+    .col-3{
+        width: 50%;
+    }
+    .col-5{
+        width: 50%;
+    }
+    .col-9{
+        width: 50%;
+    }
+    .about-title {
+        font-size: 18px;
+    }
+    .about-description {
+        margin: 10px 0 20px;
+        font-size: 10px;
+    }
+    .icon-box {
+        margin-bottom: 20px;
+    }
+    .icon {
+        width: 34px;
+        height: 34px;
+    }
+    .icon span{
+        font-size: 17px;
+    }
+    .icon-box-title {
+        margin-left: 40px;
+        font-size: 10px;
+        font-weight: 500;
+    }
+    .icon-box-desc{
+        margin-left: 60px;
+        font-size: 9px;
+    }
+    .facts {
+        padding: 30px 0;
+    }
+    .section-title {
+        font-size: 20px;
+    }
+    .section-desc {
+        margin-bottom: 40px;
+        font-size: 12px;
+    }
+    .action-desc {
+        font-size: 12px;
+    }
+    .call-to-action-btn{
+        font-size: 10px;
+        font-weight: 300;
+        padding: 6px 20px;
+        margin: 7px;
+    }
+    ul.facts-list {
+        margin-top: 20px;
+    }
+
+    .facts-list li {
+        display: inline-block;
+        margin: 0 30px;
+    }
+
+    .facts-list-num {
+        font-size: 25px;
+    }
+    .services {
+        padding: 30px 0;
+    }
+    .col-4 {
+        padding: 0 10px;
+        width: 50%;
+    }
+    .item {
+        padding: 30px 10px;
+        margin-bottom: 25px;
+        height: 120px;
+    }
+    .ikon {
+        width: 35px;
+        height: 35px;
+        top: -16px;
+    }
+    .ikon span {
+        font-size: 15px;
+    }
+    .about-title-ikon {
+        font-size: 10px;
+        margin-bottom: 10px;
+    }
+    .about-description-ikon {
+        font-size: 8px;
+    }
+    .action {
+        margin-bottom: 30px;
+        padding: 40px 0;
+    }
+    .action-content-title {
+        font-size: 16px;
+    }
+    .portfolio {
+        padding: 40px 0;
+    }
+    .portfolio-item {
+        height: 300px;
+        margin-bottom: 12px;
+    }
+    .team {
+        padding: 30px 0 30px 0;
+    }
+    .team-item img{
+        max-width: 80%;
+        height: 80%;
+        object-fit: cover;
+
+    }
+    .contact {
+        padding: 30px 0 10px;
+        margin-top: 50px;
+    }
+    .map {
+        margin: 25px 0 25px;
+    }
+    .contact-info span {
+        font-size: 18px;
+    }
+    .contact-info p {
+        padding: 0 0 10px 30px;
+        margin-bottom: 10px;
+        line-height: 20px;
+        font-size: 8px;
+    }
+    .contact-form input, .contact-form textarea {
+        font-size: 8px;
+        padding: 6px 4px;
+        margin: 5px;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:560px){
+    .conteiner{
+        max-width: 330px;
+    }
+    .logo {
+        font-size: 10px;
+    }
+
+    .top-nav-item{
+        margin-bottom:5px;
+        text-align: center;
+    }
+    .top-nav-item {
+        font-size: 6px;
+    }
+
+    .hero-content-title {
+        font-size: 12px;
+        font-weight: 300;
+    }
+
+    .hero-desc {
+        font-size: 8px;
+        margin: 5px 0 20px;
+    }
+
+    .get-started-btn {
+        font-size: 5px;
+        padding: 4px 15px;
+    }
+    .few {
+        padding: 10px 0;
+    }
+    .col-6 {
+        padding: 0 10px;
+        width: 100%;
+    }
+    .about-img{
+        height: 200px;
+    }
+    .col-9{
+        width: 100%;
+    }
+    .col-3{
+        width: 100%;
+    }
+    .col-5{
+        width: 100%;
+    }
+    .about-title {
+        font-size: 10px;
+    }
+    .about-description {
+        margin: 5px 0 10px;
+        font-size: 5px;
+    }
+    .icon-box {
+        margin-bottom: 10px;
+    }
+    .icon {
+        width: 20px;
+        height: 20px;
+    }
+    .icon span{
+        font-size: 10px;
+    }
+    .icon-box-title {
+        margin-left: 20px;
+        font-size: 5px;
+        font-weight: 300;
+    }
+    .icon-box-desc{
+        margin-left: 30px;
+        font-size: 5px;
+    }
+
+    .facts {
+        padding: 15px 0;
+    }
+
+
+    .section-title {
+        font-size: 10px;
+    }
+    .section-desc {
+        margin-bottom: 20px;
+        font-size: 6px;
+    }
+     .action-desc {
+        font-size: 6px;
+    }
+    .call-to-action-btn{
+        font-size: 6px;
+        font-weight: 100;
+        padding: 3px 10px;
+        margin: 4px;
+    }
+    ul.facts-list {
+        margin-top: 10px;
+    }
+
+    .facts-list li {
+        display: block;
+        margin: 0 15px;
+    }
+
+    .facts-list-num {
+        font-size: 12px;
+    }
+    .services {
+        padding: 15px 0;
+    }
+    .col-4 {
+        padding: 0 5px;
+        width: 100%;
+        display: block;
+    }
+    .item {
+        padding: 15px 5px;
+        margin-bottom: 15px;
+        height: 80px;
+    }
+    .ikon {
+        width: 25px;
+        height: 25px;
+        top: -9px;
+    }
+    .ikon span {
+        font-size: 7px;
+    }
+    .about-title-ikon {
+        font-size: 5px;
+        margin-bottom: 5px;
+    }
+    .about-description-ikon {
+        font-size: 4px;
+    }
+    .action {
+        margin-bottom: 15px;
+        padding: 20px 0;
+    }
+    .action-content-title {
+        font-size: 8px;
+    }
+    .portfolio {
+        padding: 20px 0;
+    }
+    .portfolio-item {
+        height: 150px;
+        margin-bottom: 7px;
+    }
+    .team {
+        padding: 15px 0 15px 0;
+    }
+    .team-item img{
+        max-width: 70%;
+        height: 70%;
+        object-fit: cover;
+
+    }
+    .contact {
+        padding: 15px 0 5px;
+        margin-top: 20px;
+    }
+    .map {
+        margin: 12px 0 12px;
+    }
+    .contact-box a{
+        display: inline-block;
+        padding: 6px;
+        text-align: center;
+    }
+    .contact-info span {
+        font-size: 8px;
+    }
+    .contact-info p {
+        padding: 0 0 5px 15px;
+        margin-bottom: 5px;
+        line-height: 10px;
+        font-size: 4px;
+    }
+    .contact-form input, .contact-form textarea {
+        font-size: 4px;
+        padding: 3px 2px;
+        margin: 3px;
+    }
+    
+}
