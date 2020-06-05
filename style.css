@@ -60,7 +60,7 @@ header{
 
 
 .hero{
-    background: #100f0f91 url("./images/OIPEHXHIU2U.jpg") fixed no-repeat center/cover;
+    background: #100f0f91 url("./images/mountain-366a.jpg") fixed no-repeat center/cover;
     height: 100vh;
     background-blend-mode: darken;
     display: flex;
@@ -295,7 +295,7 @@ ul.facts-list{
 
 
 .action{
-    background: #100f0f91 url(./images/OIPEHXHIU2U.jpg) fixed no-repeat center/cover;
+    background: #100f0f91 url(./images/mountain-366a.jpg) fixed no-repeat center/cover;
     margin-bottom: 60px;
     background-blend-mode: darken;
     padding: 80px 0;

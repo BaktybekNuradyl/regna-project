@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.portfolios {
+    height: 100vh;
+    background-blend-mode: darken;
+    background: #100f0f91 url("../images/mountain-366a.jpg") no-repeat center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.portfolio-items{
+    color: #f7f7f7;
+    text-align: center;
+}
+h3.portfolio-items-title {
+    font-size: 21px;
+    font-weight: 300;
+}
+h1.portfolio-items-item {
+    font-size: 30px;
+    font-weight: 700;
+    padding:3px 0;
+}
+p.portfolio-items-desc {
+    font-size: 10px;
+}
+button.get-start {
+    border-radius: 3px;
+    padding: 9px 19px;
+    margin-top: 30px;
+    background-color: #8a7272;
+    text-transform: uppercase;
+    color: white;
+    font-size: 7px;
+    border: 2px;
+    font-weight: 600;
+}
